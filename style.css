@@ -35,6 +35,7 @@ header{
 #contact-info {
     float: left;
     width:30%;
+    line-height: 150%;
 }
 #bio-image {
     float: left;
